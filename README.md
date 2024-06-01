@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋! My name Daniel Rossi 🇧🇷</h2>
 
 ###
-<p align="left">-Im a computer engineering student from Brazil💻<br>-I have a great interest in Web development, but im always open to learning new things🔎<br>-My Laravel and VueJS experience is limited to doing university projects🏫</p>
+<p align="left">-Im a computer engineering student from Brazil💻<br>-I have a great interest in Web development, but im always open to learning new things🔎</p>
 
 ###
 <div align="center">
@@ -22,6 +22,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwind logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
   <img width="12" />
